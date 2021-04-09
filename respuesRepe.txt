@@ -1,4 +1,5 @@
 Clientes, proveedores, competidores y gobierno
  2. Los elementos basicos de un sistema son: el objetivo, los elementos y las interelaciones
  3. Es la interrelacion de los recursos de operacion con las las tareas necesarias para alcanzar la meta.
-4. medio ambiente -> entradas: informacion, energia, personas. -> sisistema abierto: componentes sociales y tecnologicos. -> salidas: servicios, bienes terminados, ideas. ->medio ambiente.    (Mirelo como un ciclo 
+4. |medio ambiente |-> |entradas: informacion, energia, personas.|-> |sistema abierto: componentes sociales y tecnologicos.|-> |salidas: servicios, bienes terminados, ideas.|-> |medio ambiente.|    
+(Mirelo como un ciclo) 
