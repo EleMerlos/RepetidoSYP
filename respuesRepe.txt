@@ -1,1 +1,2 @@
 Clientes, proveedores, competidores y gobierno
+ 2. Los elementos basicos de un sistema son: el objetivo, los elementos y las interelaciones
