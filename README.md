@@ -1,4 +1,6 @@
 # RepetidoSYP
+https://github.com/EleMerlos/RepetidoSYP
+
 
 Primero cree una nueva carpeta le puse el nombre
 despues cick derecho y le doy git bash
